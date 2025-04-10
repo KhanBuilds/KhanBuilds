@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rayan Alam</h1>
-<h3 align="center">A passionate 19 year old tech enthusiast from Peshawar, Pakistan</h3>
+<h3 align="center">A passionate 19 year old tech enthusiast from Peshawar, Pakistan 🇵🇰</h3>
 
-- 🔭 I’m currently a **Computer Science Undergrad at IMSciences,Peshawar**
+- 🔭 I’m currently a **💻Computer Science Undergrad at IMSciences,Peshawar**
 
 - 🌱 I’m currently learning **C++, Arduino/Microcontrollers (With my Ardiuno Uno r3), DSA and Version control/Git with Github and plan on learning Python for AI/ML**
 
-- 💬 Talk to me about **AI, Machine learning, Films, Fighter jets and Football**
+- 💬 Talk to me about **AI 🤖, and machine learning🧠,Films and Filmaking🎬, Fighter jets and Football⚽**
 
 - 📫 How to reach me **rayankhann005@gmail.com**
 
--  Fun fact **I am a huge **Real Madrid** Fan**
+-  Fun fact **I am a huge Real Madrid Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
