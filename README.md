@@ -1,6 +1,6 @@
 **👋 Hi, I'm Rayan Alam!**
 
-### 🌍 Who I Am:
+### 🌍 Who Am I:
 I’m a **19-year-old** tech enthusiast from Peshawar, Pakistan 🇵🇰, with a deep passion for **embedded systems 💻**, **AI 🤖**, and **machine learning 🧠**.
 
 ### 🚀 What Drives Me:
