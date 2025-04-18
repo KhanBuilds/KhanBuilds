@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Version control/Git with Github** .
   
-- 🗒️ Planning to learn in the future: **Arduino/Microcontrollers (With my Ardiuno Uno r3, Have started but currently on the backburner) ,and plan on learning Python for AI/ML** .
+- 🗒️ Planning to learn in the future: **Arduino/Microcontrollers (With my Ardiuno Uno r3, Have started but currently on the backburner) and plan on learning Python for AI/ML** .
 
 - 💬 Talk to me about **AI 🤖, and machine learning🧠,Films and Filmaking🎬, Fighter jets and Football⚽**
 
