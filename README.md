@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rayan Alam</h1>
+<h1 align="center">Hi 👋, I'm Rayan</h1>
 <h3 align="center">A passionate 19 year old tech enthusiast from Peshawar, Pakistan 🇵🇰</h3>
 
 - 🔭 I’m currently a **💻Computer Science Undergrad at IMSciences,Peshawar**
 
-- 🌱 I’m currently learning **C++ and Version control/Git with Github** .
+- 🌱 I’m currently learning **Anything I find worth learning** .
   
 - 💬 Talk to me about **Films and Filmaking🎬, Fighter jets and Football⚽**
 
