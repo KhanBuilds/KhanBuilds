@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **💻Computer Science Undergrad at IMSciences,Peshawar**
 
-- 🌱 I’m currently learning **Anything I find worth learning** .
+- 🌱 I’m currently learning **C++, Python, git and arduino** .
   
 - 💬 Talk to me about **Films and Filmaking🎬, Fighter jets and Football⚽**
 
