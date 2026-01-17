@@ -10,14 +10,14 @@
 -  <h3 align="left">
    Reach me at:
       <a href="mailto:rayankhann005@gmail.com">
-    rayankhann005@gmail.com
+    My Email
   </a>
 </h3>
 
 -  Fun fact **I am a huge Real Madrid Fan**
 
 <h3 align="left">
-  Connect with me on 
+ Feel free to Connect with me on 
   <a href="https://www.linkedin.com/in/rayanalam005" target="_blank" rel="noreferrer">
     LinkedIn
   </a>
