@@ -7,13 +7,21 @@
   
 -  Talk to me about **Films and Filmaking, Fighter jets and Football**
 
--  How to reach me **rayankhann005@gmail.com**
+-  <h3 align="left">
+   Reach me at:
+      <a href="mailto:rayankhann005@gmail.com">
+    rayankhann005@gmail.com
+  </a>
+</h3>
 
 -  Fun fact **I am a huge Real Madrid Fan**
 
-<h3 align="left">Connect with me on Linkedin: https://www.linkedin.com/in/rayanalam005</h3>
-<p align="left">
-</p>
+<h3 align="left">
+  Connect with me on 
+  <a href="https://www.linkedin.com/in/rayanalam005" target="_blank" rel="noreferrer">
+    LinkedIn
+  </a>
+</h3>
 
 ###  Languages and Tools I use/am familiar with:
 <p align="left">
