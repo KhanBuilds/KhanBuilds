@@ -8,7 +8,7 @@
 -  Talk to me about **Films and Filmaking, Fighter jets and Football**
 
 -  <h3 align="left">
-   Reach me at:
+   Reach me at
       <a href="mailto:rayankhann005@gmail.com">
     My Email
   </a>
